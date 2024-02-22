@@ -69,7 +69,7 @@ when `ν > 3`. Otherwise, the skewness is not defined.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-skewness@v0.2.1-deno/mod.js';
 ```
 
 #### skewness( v )
@@ -120,7 +120,7 @@ y = skewness( 2.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-skewness@v0.2.1-deno/mod.js';
 
 var v;
 var y;
