@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`998c1be`](https://github.com/stdlib-js/stdlib/commit/998c1be8630c1efcf19beefda88181db820d1dcb) - **chore:** remove EPS addition and directly draw from desired distribution _(by Philipp Burckhardt)_
 -   [`e661ffe`](https://github.com/stdlib-js/stdlib/commit/e661ffe97297b6876bbc2c8bb89cd6a3e25d3fbd) - **feat:** add C implementation for `stats/base/dists/t/skewness` [(#3920)](https://github.com/stdlib-js/stdlib/pull/3920) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
 </details>
