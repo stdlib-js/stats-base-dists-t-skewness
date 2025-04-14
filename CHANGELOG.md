@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-04-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`998c1be`](https://github.com/stdlib-js/stdlib/commit/998c1be8630c1efcf19beefda88181db820d1dcb) - **chore:** remove EPS addition and directly draw from desired distribution _(by Philipp Burckhardt)_
 -   [`e661ffe`](https://github.com/stdlib-js/stdlib/commit/e661ffe97297b6876bbc2c8bb89cd6a3e25d3fbd) - **feat:** add C implementation for `stats/base/dists/t/skewness` [(#3920)](https://github.com/stdlib-js/stdlib/pull/3920) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
@@ -48,9 +49,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
